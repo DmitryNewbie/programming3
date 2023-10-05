@@ -1,0 +1,15 @@
+C:\Users\zimzu\OneDrive\Рабочий стол\Учеба 2\Знакомство с языками программирования (семинары)\дз3\з1\bin\Debug\net6.0\з1.exe
+C:\Users\zimzu\OneDrive\Рабочий стол\Учеба 2\Знакомство с языками программирования (семинары)\дз3\з1\bin\Debug\net6.0\з1.deps.json
+C:\Users\zimzu\OneDrive\Рабочий стол\Учеба 2\Знакомство с языками программирования (семинары)\дз3\з1\bin\Debug\net6.0\з1.runtimeconfig.json
+C:\Users\zimzu\OneDrive\Рабочий стол\Учеба 2\Знакомство с языками программирования (семинары)\дз3\з1\bin\Debug\net6.0\з1.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\Учеба 2\Знакомство с языками программирования (семинары)\дз3\з1\bin\Debug\net6.0\ref\з1.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\Учеба 2\Знакомство с языками программирования (семинары)\дз3\з1\bin\Debug\net6.0\з1.pdb
+C:\Users\zimzu\OneDrive\Рабочий стол\Учеба 2\Знакомство с языками программирования (семинары)\дз3\з1\obj\Debug\net6.0\з1.csproj.AssemblyReference.cache
+C:\Users\zimzu\OneDrive\Рабочий стол\Учеба 2\Знакомство с языками программирования (семинары)\дз3\з1\obj\Debug\net6.0\з1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimzu\OneDrive\Рабочий стол\Учеба 2\Знакомство с языками программирования (семинары)\дз3\з1\obj\Debug\net6.0\з1.AssemblyInfoInputs.cache
+C:\Users\zimzu\OneDrive\Рабочий стол\Учеба 2\Знакомство с языками программирования (семинары)\дз3\з1\obj\Debug\net6.0\з1.AssemblyInfo.cs
+C:\Users\zimzu\OneDrive\Рабочий стол\Учеба 2\Знакомство с языками программирования (семинары)\дз3\з1\obj\Debug\net6.0\з1.csproj.CoreCompileInputs.cache
+C:\Users\zimzu\OneDrive\Рабочий стол\Учеба 2\Знакомство с языками программирования (семинары)\дз3\з1\obj\Debug\net6.0\з1.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\Учеба 2\Знакомство с языками программирования (семинары)\дз3\з1\obj\Debug\net6.0\ref\з1.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\Учеба 2\Знакомство с языками программирования (семинары)\дз3\з1\obj\Debug\net6.0\з1.pdb
+C:\Users\zimzu\OneDrive\Рабочий стол\Учеба 2\Знакомство с языками программирования (семинары)\дз3\з1\obj\Debug\net6.0\з1.genruntimeconfig.cache
